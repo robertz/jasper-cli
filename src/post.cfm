@@ -23,7 +23,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 d-none d-lg-block d-xl-block">
-				sidbar
+				<cfinclude template="sidebar.cfm" />
 			</div>
 		</div>
 	</div>

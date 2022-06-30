@@ -4,9 +4,9 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>Title</title>
-		<meta name="description" content="Description">
-		<meta name="author" content="Author">
+		<title>#prc.meta.title#</title>
+		<meta name="description" content="#prc.meta.description#">
+		<meta name="author" content="#prc.meta.author#">
 		<meta name="twitter:widgets:theme" content="light">
 		<meta name="twitter:widgets:border-color" content="##55acee">
 		<!--- <base href="#event.getHTMLBaseURL()#" /> --->

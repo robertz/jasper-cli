@@ -7,7 +7,7 @@
 
 		<div class="row mt-3">
 			<div class="col-lg-8 col-md-12 post">
-				<!--- <cfloop array="#prc.posts#" item="post">
+				<cfloop array="#prc.posts#" item="post">
 					<div class="card w-100 mb-3">
 						<a href="/post/#post.slug#" alt="#post.title#">
 							<img src="#post.image#" class="card-img-top feed-item" alt="">
@@ -28,11 +28,11 @@
 							</p>
 						</div>
 					</div>
-				</cfloop> --->
+				</cfloop>
 			</div>
 
 			<div class="col-lg-4 d-none d-lg-block d-xl-block">
-				Sidebar
+				<cfinclude template="sidebar.cfm" />
 			</div>
 
 		</div>
