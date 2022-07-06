@@ -1,31 +1,25 @@
-<cfoutput>
+
 <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>#prc.meta.title#</title>
-	<meta name="description" content="#prc.meta.description#">
-	<meta name="author" content="#prc.meta.author#">
+	<title>Jasper</title>
+	<meta name="description" content="A description of your blog">
+	<meta name="author" content="Jasper">
 	<meta name="twitter:widgets:theme" content="light">
-	<meta name="twitter:widgets:border-color" content="##55acee">
-	<!--- <base href="#event.getHTMLBaseURL()#" /> --->
-	<!--- <cfloop array="#prc.headers#" index="header">
-		<cfif header.keyExists("property")>
-			<meta property="#header.property#" content="#header.content#" />
-		<cfelse>
-			<meta name="#header.name#" content="#header.content#" />
-		</cfif>
-	</cfloop> --->
+	<meta name="twitter:widgets:border-color" content="#55acee">
+	
+	
 	<link rel="stylesheet" href="https://unpkg.com/bootstrap@4.6.0/dist/css/bootstrap.min.css" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-	<link rel="stylesheet" href="/assets/css/site.css?v=#dateFormat(now(), "yyyy-mm-dd")#T#timeFormat(now(), "HH:mm:ss")#">
+	<link rel="stylesheet" href="/assets/css/site.css?v=2022-07-06T13:38:20">
 </head>
 <body style="padding-top: 70px;">
 	<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
 		<div class="container">
 			<a class="navbar-brand" href="/">Jasper</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="##navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -41,18 +35,46 @@
 		</div>
 	</nav>
 
-	<!---Container And Views --->
+	
 	<div class="container-fluid">
-		#content#
+		
+<div class="row lazy">
+	<div class="col-lg-2 d-none d-lg-block d-xl-block"></div>
+	<div class="col-lg-8 col-md-12 post">
+		<div class="row">
+			<div class="col-lg-8 col-md-12">
+				<p>Eat at joes~</p>
+			</div>
+			<div class="col-lg-4 d-none d-lg-block d-xl-block">
+				
+
+<div>
+	<div class="shadow rounded p-2 mb-3">
+		<p>
+			<h6>- Jasper</h6>
+			<small>
+				This would be a good place to put a few blurbs about yourself.
+			</small>
+		</p>
+	</div>
+	
+</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="col-lg-2 d-none d-lg-block d-xl-block"></div>
+</div>
+
 	</div>
 
 	<footer class="border-top py-3 mt-5">
 		<div class="container">
-			<small>KISDigital.com&copy; 2020 - #dateFormat(now(), "yyyy")#</small>
+			<small>KISDigital.com&copy; 2020 - 2022</small>
 		</div>
 	</footer>
 
-	<!---js --->
+	
 	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 	<script src="https://unpkg.com/bootstrap@4.6.0/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
@@ -66,4 +88,4 @@
 	</script>
 	</body>
 	</html>
-</cfoutput>
+
