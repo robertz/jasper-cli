@@ -9,13 +9,13 @@
 			</small>
 		</p>
 	</div>
-	<div class="shadow rounded p-2">
+	<!--- <div class="shadow rounded p-2">
 		<p>
 			<h6>- Tags</h6>
 			<cfloop array="#prc.tagCloud#" index="tag">
 				<a href="/tag/#tag.replace(" ", "-", "all")#"> <span class="h5"><span class="badge badge-secondary p-2">#tag#</span></span></a>
 			</cfloop>
 		</p>
-	</div>
+	</div> --->
 </div>
 </cfoutput>

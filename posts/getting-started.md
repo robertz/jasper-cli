@@ -1,4 +1,6 @@
 ---
+layout: main
+type: post
 slug: getting-started
 title: Getting Started
 author: Jasper

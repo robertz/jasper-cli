@@ -1,4 +1,6 @@
 ---
+layout: main
+type: post
 slug: marvel-movies-in-order
 title: Marvel Movies in Chronological Order
 author: Robert Zehnder

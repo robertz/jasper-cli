@@ -1,3 +1,1 @@
-dist/
-/modules/*
-/post-cache.json
+_data/post-cache.json

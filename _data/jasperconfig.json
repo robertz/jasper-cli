@@ -4,9 +4,5 @@
 		"description": "A description of your blog",
 		"author": "Jasper",
 		"url": "https://example.com"
-	},
-	"contentPages": [{
-		"url": "index.cfm",
-		"file": "index.html"
-	}]
+	}
 }
