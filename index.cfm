@@ -13,5 +13,5 @@ weird:
 		<a href="/posts/#i.slug#">#i.title#</a><br />
 	</cfloop>
 </div>
-<cfdump var="#prc#" />
+<!--- <cfdump var="#prc#" /> --->
 </cfoutput>
