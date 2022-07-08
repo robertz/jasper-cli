@@ -2,4 +2,4 @@
 layout: main
 ---
 
-About page
+Insert about text
