@@ -33,9 +33,6 @@
 					<li class="nav-item active">
 						<a class="nav-link" href="/about">About</a>
 					</li>
-					<li class="nav-item active">
-						<a class="nav-link" href="/test">Test</a>
-					</li>
 				</ul>
 			</div>
 		</div>
@@ -43,7 +40,7 @@
 
 	<!---Container And Views --->
 	<div class="container-fluid">
-		#content#
+		#renderedHtml#
 	</div>
 
 	<footer class="border-top py-3 mt-5">

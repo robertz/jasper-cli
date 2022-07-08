@@ -1,12 +1,12 @@
 {
-	"app": {
-		"cfengine": "none"
-	},
-	"web": {
-		"rewrites": {
-			"config": ".htaccess",
-			"enable": true
-		},
-		"webroot": "_site"
-	}
+    "app":{
+        "cfengine":"none"
+    },
+    "web":{
+        "rewrites":{
+            "config":".htaccess",
+            "enable":true
+        },
+        "webroot":"_site"
+    }
 }
