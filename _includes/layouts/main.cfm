@@ -33,6 +33,9 @@
 					<li class="nav-item active">
 						<a class="nav-link" href="/about">About</a>
 					</li>
+					<li class="nav-item active">
+						<a class="nav-link" href="/debug">Debug</a>
+					</li>
 				</ul>
 			</div>
 		</div>
