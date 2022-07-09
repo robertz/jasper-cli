@@ -36,6 +36,9 @@
 					<li class="nav-item active">
 						<a class="nav-link" href="/debug">Debug</a>
 					</li>
+					<li class="nav-item active">
+						<a class="nav-link" href="/readme">README</a>
+					</li>
 				</ul>
 			</div>
 		</div>
