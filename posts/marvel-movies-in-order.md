@@ -3,7 +3,7 @@ layout: main
 type: post
 slug: marvel-movies-in-order
 title: Marvel Movies in Chronological Order
-author: Robert Zehnder
+author: Jasper
 description: A listing of all the Marvel movies in timeline order
 tags: 
 - misc
@@ -136,3 +136,23 @@ After the devastating events of Avengers: Infinity War (2018), the universe is i
 ![Spiderman: Far from Home](https://static.kisdigital.com/images/marvel/24_spiderman_far_from_home.jpg)
 
 Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.
+
+### Shang-Chi and the Legend of the Ten Rings (2021)
+![Shang-Chi and the Legend of the Ten Rings](https://static.kisdigital.com/images/marvel/25_shang-chi_and_the_ten_rings.webp)
+
+Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.
+
+### Eternals (2021)
+![Eternals](https://static.kisdigital.com/images/marvel/26_eternals.webp)
+
+Following the events of Avengers: Endgame (2019), an unexpected tragedy forces the Eternals, ancient aliens who have been living on Earth in secret for thousands of years, out of the shadows to reunite against mankind's most ancient enemy, the Deviants.
+
+### Spider-Man: No Way Home
+![Spider-Man: No Way Home](https://static.kisdigital.com/images/marvel/27_spiderman_no_way_home.webp)
+
+Peter Parker's secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.
+
+### Doctor Strange in the Multiverse of Madness
+![Spider-Man: No Way Home](https://static.kisdigital.com/images/marvel/28_dr_strange_in_the_multiverse_of_madness.webp)
+
+Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.

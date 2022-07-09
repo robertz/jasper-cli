@@ -20,7 +20,7 @@ mkdir newproject
 cd newproject
 box jasper init
 box jasper build
-box jasper watch
 box server start 
+box jasper watch
 
 ```
