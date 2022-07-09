@@ -3,10 +3,13 @@
         "cfengine":"none"
     },
     "web":{
+        "http":{
+            "port":"8888"
+        },
         "rewrites":{
             "config":".htaccess",
-            "enable":true
+            "enable":"true"
         },
-        "webroot":"_site"
+        "webroot":"_site//"
     }
 }
