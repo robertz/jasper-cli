@@ -31,9 +31,6 @@
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item active">
-						<a class="nav-link" href="/about">About</a>
-					</li>
-					<li class="nav-item active">
 						<a class="nav-link" href="/debug">Debug</a>
 					</li>
 					<li class="nav-item active">

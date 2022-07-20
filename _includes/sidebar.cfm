@@ -13,7 +13,7 @@
 		<p>
 			<h6>- Tags</h6>
 			<cfloop array="#collections.tags#" index="tag">
-				<a href="/tag/#tag.replace(" ", "-", "all")#"> <span class="h5"><span class="badge badge-secondary p-2">#tag#</span></span></a>
+				<a href="/tag/#tag.slug#"> <span class="h5"><span class="badge badge-secondary p-2">#tag.text#</span></span></a>
 			</cfloop>
 		</p>
 	</div>
